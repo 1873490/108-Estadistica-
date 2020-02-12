@@ -4,13 +4,15 @@
 #Prueba de Shapiro Wikins 
 
 En cada prueba establece un valor alfa de 0.055.
-La interpretacion  se puede ver en la siguiente imagen 
+La interpretacion  se puede ver en la siguiente imagen
+
 
 ![interpretacion][clase]
 
 
 
 
-[Clase]: clase.png
+
+[clase]:clase.png
 
 
