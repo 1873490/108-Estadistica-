@@ -17,3 +17,15 @@ Lista de actividades del curso
 
 + Clase 3: 29.01.2020
  + instalar paqueteria para R 
+ 
+ 
+ + :paperclip: Clase 4: 30.01.2020 (*Script2*)
+  + Importar base de datos de excel en formato *.csv*
+  + utilizar el comando *read.csv*
+ 
+ +:paperclip: Clase 5: 5.02.2020
+ + Tarea 1 importo datos de excel en formarto *.csv*
+  + utilizar el comando *read.csv*
+ 
+ +paperclip: Clase 6: 6.02.2020
+ + Tarea 1 importo datos de excel en formarto *conjunto*
