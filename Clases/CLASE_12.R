@@ -1,7 +1,8 @@
 
 # Importar datos  ---------------------------------------------------------
+setwd("C:/TAREAS/108-Estadistica-/Clases")
 
-cerdrorojo <- read.csv("Clases/cedrorojo.csv", header = TRUE)
+cerdrorojo <- read.csv("cedrorojo.csv", header = TRUE)
 
 summary(cerdrorojo)
 
@@ -10,6 +11,9 @@ summary(cerdrorojo)
 # comparar la media observada  de la variable diametro para las plantulaS producidas en el vivero 12.524
 
 # "mu" debe ser igual a la variable teoretica
-# al valor de alfa establecido es o.o3
+# al valor de alfa establecido es 0.03
 
 t.test(cerdrorojo$diametro, mu=12.7)
+
+t.test(cerdrorojo$altura, mu=19)
+
